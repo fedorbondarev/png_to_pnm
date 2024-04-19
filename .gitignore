@@ -353,10 +353,3 @@ MigrationBackup/
 
 cmake-build-debug/
 cmake-build-release/
-CMakeLists.txt
-
-/out.ppm
-/out.pnm
-
-/include/
-/test_data/my_tests/
